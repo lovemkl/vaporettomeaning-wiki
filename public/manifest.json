@@ -1,0 +1,13 @@
+{
+  "name": "Vaporetto Meaning",
+  "short_name": "Vaporetto Meaning",
+  "description": "What vaporetto means — the Venice waterbus explained: definition, etymology, history, routes, tickets, comparisons and how to ride.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1118",
+  "theme_color": "#c8956c",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

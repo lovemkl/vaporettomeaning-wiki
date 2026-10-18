@@ -1,0 +1,3 @@
+# AdSense ads.txt — 开通 AdSense 后把下面一行的 pub-XXXXXXXXXXX 换成你的发布商 ID 并取消注释
+# （TAG ID f08c47fec0942fa0 为 Google 固定值，所有账号相同）
+# google.com, pub-XXXXXXXXXXX, DIRECT, f08c47fec0942fa0

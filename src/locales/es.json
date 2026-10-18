@@ -1,0 +1,393 @@
+{
+  "site": {
+    "name": "Significado de Vaporetto",
+    "shortName": "Vaporetto Meaning",
+    "tagline": "Referencia y guía",
+    "description": "What vaporetto means — the Venice waterbus explained: definition, etymology, history, routes, tickets, comparisons and how to ride.",
+    "legalNotice": "Sitio independiente. No afiliado a ACTV ni a la Ciudad de Venecia."
+  },
+  "nav": {
+    "guides": "Guías",
+    "venice": "Venecia",
+    "comparisons": "Comparativas",
+    "faq": "FAQ",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Vaporetto Meaning: Venice Waterbus Definition & Guide",
+      "description": "Vaporetto meaning: a motorboat serving as a canal bus in Venice, Italy — from Italian vapore plus -etto, little steamer. Definition, etymology, history and how to ride."
+    },
+    "hero": {
+      "eyebrow": "Referencia y guía",
+      "title": "Vaporetto Meaning",
+      "description": "A vaporetto is a motorboat serving as a canal bus in Venice, Italy — the city's primary form of public transport through its historic canals and lagoon. The word comes from Italian vapore (steam) plus the diminutive suffix -etto, literally meaning little steamer, named for the steam-powered boats that first served Venice in the 19th century. Today, the vaporetto network connects the historic centre, the lagoon islands and the mainland, carrying millions of residents and visitors each year. This guide covers the word's meaning, its history, the routes and lines, tickets and prices, and how to ride Venice's waterbus system.",
+      "primaryCtataria": "Read the Complete Guide",
+      "primaryCta": "Leer la guía completa",
+      "secondaryCta": "Ver: cómo montar",
+      "tertiaryCta": "Todas las guías",
+      "stats": [
+        "Venice's Public Transport",
+        "Etymology: Little Steamer",
+        "20+ Lines Across the Lagoon",
+        "Millions of Riders Each Year"
+      ]
+    },
+    "updates": {
+      "title": "Fresh From the Lagoon",
+      "browse": "Browse All Guides",
+      "viewAll": "View All"
+    },
+    "start": {
+      "eyebrow": "Understanding Vaporetto In Four Steps",
+      "title": "From Word to Waterbus",
+      "cards": [
+        {
+          "number": "1",
+          "title": "The Meaning",
+          "description": "The complete guide covers the definition, etymology and usage of the word vaporetto in full."
+        },
+        {
+          "number": "2",
+          "title": "The History",
+          "description": "From 19th-century steam boats to the modern electric fleet — how the vaporetto system evolved."
+        },
+        {
+          "number": "3",
+          "title": "How to Ride",
+          "description": "Tickets, routes, stops and boarding — the practical guide to using Venice's waterbus."
+        },
+        {
+          "number": "4",
+          "title": "The Comparisons",
+          "description": "Vaporetto versus gondola versus water taxi — which Venice boat is right for you."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Most-Read This Week",
+      "title": "Trending Now",
+      "quickLinks": [
+        "Meaning",
+        "How to Ride",
+        "Tickets",
+        "vs Gondola"
+      ],
+      "cards": [
+        {
+          "title": "Vaporetto Meaning Guide",
+          "description": "The complete orientation — definition, etymology, usage and context of the word."
+        },
+        {
+          "title": "How to Ride",
+          "description": "The practical walkthrough — tickets, stops, boarding and riding the waterbus."
+        },
+        {
+          "title": "Vaporetto vs Gondola",
+          "description": "The Venice boat comparison — waterbus, gondola and water taxi compared honestly."
+        },
+        {
+          "title": "History of the Vaporetto",
+          "description": "From steam to electric — 150 years of Venice's floating bus system."
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "What Does Vaporetto Mean?",
+      "paragraphs": [
+        "The vaporetto meaning is straightforward and beautiful at once: a motorboat serving as a canal bus in Venice, Italy. The word itself is a small piece of linguistic history — from Italian vapore meaning steam or steamboat, combined with the diminutive suffix -etto, producing vaporetto: literally, a little steamer. The name was earned honestly: the first vaporetti that navigated Venice's Grand Canal in the late 19th century were indeed steam-powered, and though today's fleet runs on diesel and increasingly electric motors, the name has stayed as an artifact of the technology that started it all.",
+        "The plural is vaporetti, and the word functions as both a noun and a brand — ACTV, Venice's public transport company, operates the official vaporetto network of more than twenty lines connecting the historic centre, the lagoon islands (Murano, Burano, Lido, San Giorgio), and the mainland via Punta Sabbioni and Fusina. The vaporetto is not a tourist attraction though tourists ride it; it is Venice's bus, metro and commute, carrying residents to work and visitors to St Mark's Square with equal efficiency. Understanding the vaporetto meaning is understanding Venice itself: a city where the bus floats."
+      ],
+      "stats": [
+        {
+          "label": "Definition",
+          "value": "Canal Bus / Waterbus"
+        },
+        {
+          "label": "Etymology",
+          "value": "Vapore + -etto"
+        },
+        {
+          "label": "Literal Meaning",
+          "value": "Little Steamer"
+        },
+        {
+          "label": "Plural",
+          "value": "Vaporetti"
+        },
+        {
+          "label": "Operator",
+          "value": "ACTV"
+        },
+        {
+          "label": "Lines",
+          "value": "20+"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Everything Vaporetto, Mapped",
+      "description": "Guides, Venice practical info, comparisons and answers — the complete toolkit.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Vaporetto Meaning Guide",
+          "description": "The complete orientation.",
+          "href": "/guide/vaporetto-meaning-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "The definition — what vaporetto means"
+            },
+            {
+              "label": "2",
+              "detail": "The etymology — vapore plus -etto"
+            },
+            {
+              "label": "3",
+              "detail": "Usage, plural and context"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "History of the Vaporetto",
+          "description": "From steam to electric.",
+          "href": "/guide/vaporetto-history",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "The 19th-century steam origins"
+            },
+            {
+              "label": "2",
+              "detail": "Diesel era and the modern fleet"
+            },
+            {
+              "label": "3",
+              "detail": "Electric future and sustainability"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "How to Ride",
+          "description": "The practical guide.",
+          "href": "/guide/how-to-ride",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tickets and passes — which to buy"
+            },
+            {
+              "label": "A",
+              "detail": "Routes and lines — navigating the network"
+            },
+            {
+              "label": "B",
+              "detail": "Stops, boarding and etiquette"
+            },
+            {
+              "label": "C",
+              "detail": "Common mistakes and how to avoid them"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Vaporetto vs Gondola",
+          "description": "The Venice boat duel.",
+          "href": "/comparisons/vaporetto-vs-gondola",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Waterbus vs gondola vs water taxi"
+            },
+            {
+              "label": "2",
+              "detail": "Price, experience and practicality"
+            },
+            {
+              "label": "3",
+              "detail": "Which Venice boat for which visitor"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Routes and Lines",
+          "description": "Navigating the network.",
+          "href": "/venice/routes-and-lines",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "🛳",
+              "detail": "Line 1 — the Grand Canal classic"
+            },
+            {
+              "label": "🗺",
+              "detail": "Lagoon lines — Murano, Burano, Lido"
+            },
+            {
+              "label": "🚌",
+              "detail": "Circular and seasonal routes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tickets and Prices",
+          "description": "What it costs to ride.",
+          "href": "/venice/tickets-and-prices",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Single tickets — cost and validity"
+            },
+            {
+              "label": "A",
+              "detail": "Day passes and multi-day cards"
+            },
+            {
+              "label": "B",
+              "detail": "Rolling Venice Card and discounts"
+            },
+            {
+              "label": "C",
+              "detail": "Where and how to buy"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tips for Visitors",
+          "description": "Riding like a local.",
+          "href": "/venice/tips-for-visitors",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "🎟",
+              "detail": "Validate your ticket before boarding"
+            },
+            {
+              "label": "🏃",
+              "detail": "Let passengers off before boarding"
+            },
+            {
+              "label": "📸",
+              "detail": "Best photo spots from the water"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ",
+          "description": "The straight answers.",
+          "href": "/faq/faq",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "❓",
+              "detail": "What does vaporetto literally mean?"
+            },
+            {
+              "label": "🎫",
+              "detail": "How much does a vaporetto cost?"
+            },
+            {
+              "label": "🛳",
+              "detail": "What's the difference from a gondola?"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most common questions about the vaporetto.",
+      "items": [
+        {
+          "question": "What does vaporetto mean?",
+          "answer": "A vaporetto is a motorboat serving as a canal bus in Venice, Italy. The word comes from Italian vapore (steam) plus the diminutive suffix -etto, literally meaning little steamer. The plural is vaporetti."
+        },
+        {
+          "question": "How much does a vaporetto ticket cost?",
+          "answer": "A single vaporetto ticket costs around €9.50 (as of recent updates) and is valid for 75 minutes. Day passes, multi-day cards and the Rolling Venice Card offer better value for multiple rides. The tickets and prices guide covers current pricing in detail."
+        },
+        {
+          "question": "What is the difference between a vaporetto and a gondola?",
+          "answer": "A vaporetto is Venice's public transport — a motorized waterbus carrying dozens of passengers on scheduled routes for the price of a bus ticket. A gondola is a traditional rowing boat for private hire, costing €80-100+ for a 30-minute ride. The comparison page covers all the differences."
+        },
+        {
+          "question": "Is vaporetto the best way to get around Venice?",
+          "answer": "For most visitors, yes — the vaporetto is the most practical, affordable and scenic way to navigate Venice's historic centre and lagoon islands. The Line 1 route along the Grand Canal doubles as one of the world's great boat tours at bus-fare prices."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "The lagoon awaits.",
+      "description": "The meaning, the history, the routes, the tickets and the comparisons — everything vaporetto from word to waterbus.",
+      "primary": "Read the Complete Guide",
+      "secondary": "Vaporetto on Wikipedia"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigation",
+    "activeCodes": "Lagoon Tracker",
+    "updated": "Updated",
+    "viewAllCodes": "View all guides",
+    "inThisSection": "In this section",
+    "tableOfContents": "Table of Contents",
+    "nextSteps": "Next Steps",
+    "needHelp": "Need Help?",
+    "relatedReading": "Related Reading",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Vaporetto Meaning",
+    "about": "Vaporetto Meaning is an independent reference site explaining Venice's waterbus — the definition, etymology, history, routes, tickets and practical riding guides, written for clarity and updated as the system evolves.",
+    "quickLinks": "Quick Links",
+    "guides": "Guides",
+    "legal": "Legal",
+    "copyright": "2026 Vaporetto Meaning. No afiliado a ACTV ni a la Ciudad de Venecia.",
+    "description": "What vaporetto means — definition, etymology, history and how to ride Venice's waterbus.",
+    "playGame": "How to Ride Video",
+    "officialDiscord": "About Venice",
+    "officialYoutube": "Wikipedia",
+    "epicStore": "Reference",
+    "beginnerGuide": "Complete Guide",
+    "mapGuides": "History",
+    "weaponsGuides": "How to Ride",
+    "buildGuide": "vs Gondola",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Guides",
+    "overviewDescription": "Every vaporetto guide — the complete meaning, the history and the practical how-to-ride."
+  },
+  "venice": {
+    "overviewTitle": "Venice",
+    "overviewDescription": "The practical Venice pages — routes and lines, tickets and prices, and tips for riding the vaporetto."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparisons",
+    "overviewDescription": "The vaporetto against the alternatives — gondola, water taxi and walking."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Straight answers about the vaporetto — the meaning, the cost, the routes and the differences."
+  }
+}
