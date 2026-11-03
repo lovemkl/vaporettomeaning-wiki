@@ -70,8 +70,9 @@ export default async function LocaleLayout({ children, params }: { children: Rea
 
       {GA_ID && <><Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="afterInteractive" /><Script id="ga-init" strategy="afterInteractive">{`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`}</Script></>}
       {CID && <Script id="clarity" strategy="afterInteractive">{`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","${CID}");`}</Script>}
-      {AD_KEY && <div id="ad-native-hero" className="container max-w-2xl mx-auto my-6 min-h-[90px]" />}
-      {AD_KEY && <Script id="ad-native" strategy="afterInteractive">{`(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src="https://pl31197087.profitableratecpmnetwork.com/${AD_KEY}/invoke.js";var c=document.getElementById('ad-native-hero');if(c)c.appendChild(s);})();`}</Script>}
+      {AD_KEY && <div id={`container-${AD_KEY}`} className="container max-w-2xl mx-auto my-6 min-h-[90px]" />}
+      {AD_KEY && <Script id="ad-native" strategy="afterInteractive" src={`https://bauval.org/21/${AD_KEY}`} data-cfasync="false" />}
+      {process.env.NEXT_PUBLIC_AD_SOCIALBAR && <Script id="ad-socialbar" strategy="afterInteractive" src={`https://bauval.org/14/${process.env.NEXT_PUBLIC_AD_SOCIALBAR}`} data-cfasync="false" />}
     </body>
     </html>
   );
