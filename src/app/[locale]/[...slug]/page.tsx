@@ -21,7 +21,9 @@ const AD_FOOT = process.env.NEXT_PUBLIC_AD_BANNER_728X90;
 type Messages = typeof en;
 
 function languageAlternates(pathname: string) {
-  return Object.fromEntries(routing.locales.map((locale) => [locale, locale === "en" ? pathname : `/${locale}${pathname}`]));
+  const langs = Object.fromEntries(routing.locales.map((locale) => [locale, locale === "en" ? pathname : `/${locale}${pathname}`]));
+  langs["x-default"] = routing.defaultLocale === "en" ? pathname : `/${routing.defaultLocale}${pathname}`;
+  return langs;
 }
 
 export async function generateStaticParams() {
